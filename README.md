@@ -38,6 +38,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or issues, please contact us at [contact@example.com.](https://synchronousservices.com/)https://synchronousservices.com/
+For any questions or issues, please contact us at (https://synchronousservices.com/)https://synchronousservices.com/
 
 Happy Chatting! 🤖💬
